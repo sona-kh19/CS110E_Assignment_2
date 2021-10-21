@@ -1,4 +1,4 @@
-//solve a*x^2 + b*x + c = 0
+//Solve a*x^2 + b*x + c = 0
 
 const a = 3;
 const b = 5;
