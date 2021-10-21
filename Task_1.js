@@ -1,3 +1,4 @@
+//compare the areas of the triangle and the rectangle
 
 const height_tri = 35;
 const base = 18;
